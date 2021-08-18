@@ -33,7 +33,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "SDBOTz"
+      "value": "DsC_Chat"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -57,7 +57,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "SDBOTsz"
+      "value": "DsC_Offl"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
