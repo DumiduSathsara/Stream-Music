@@ -1,9 +1,9 @@
 {
   "name": "StreamMusic",
-  "logo": "https://telegra.ph/file/899dfb2d8e4dddd76560a.jpg",
+  "logo": "https://telegra.ph/file/1bd28bc6d291494d71cba.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Sadew451/Stream-Music",
+  "repository": "https://github.com/DumiduSathsara/Stream-Music/",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
