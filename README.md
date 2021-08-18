@@ -2,10 +2,10 @@
 
 ### 𝘼 𝙗𝙤𝙩 𝙩𝙝𝙖𝙩 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙤𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥 𝙖𝙣𝙙 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙑𝙤𝙞𝙘𝙚 𝘾𝙝𝙖𝙩𝙨
 
-### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙖𝙨[@SDStreamMusicBot](https://t.me/SDStreamMusicBot)
+### 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙖𝙨[@DsC_VC_Bot](https://t.me/DsC_VC_Bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/c9b3eeeef7d32593caca6.jpg">
+  <img src="https://telegra.ph/file/19d946f74a80b80deede6.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -93,7 +93,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @SDStreamMusicBot as Channel admin with full perms
+ 3. Add @DsC_VC_Bot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -115,7 +115,7 @@ Don't edit this part
 - [Sadew](https://github.com/Sadew451): Dev
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork StreamMusic won't exist. 
-StreamMusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @SDStreamMusicBot users
+StreamMusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DsC_VC_Bot users
 
 #### Contribtors
 - [InukaASiTH](https://github.com/InukaAsith):
